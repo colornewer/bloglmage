@@ -1,2 +1,2 @@
 # bloglmage
-save blog images
+用于图片保存
